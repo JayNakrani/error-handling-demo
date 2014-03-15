@@ -1,0 +1,20 @@
+
+Setting up user defined error handler..!!
+old_error_handler:NULL
+
+--------------------------------Error Test Starts..!!------------------------------ 
+ Haha
+This is demo_function_3..!!
+
+This is demo_function_2..!!
+
+This is demo_function_1..!!
+
+	Error#8 encountered on line#7 of "/var/www/error_test/lib/lib.php" > Undefined variable: x
+
+Stack Trace:
+
+Frame[1]:	file:/var/www/error_test/lib/lib.php	line:13	function:demo_function_1(arg[0] = xyz)
+Frame[2]:	file:/var/www/error_test/lib/lib.php	line:19	function:demo_function_2(arg[0] = 5, arg[1] = 7)
+Frame[3]:	file:/var/www/error_test/error_test.php	line:50	function:demo_function_3()
+Dying now...!!!!
