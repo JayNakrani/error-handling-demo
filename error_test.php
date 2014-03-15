@@ -45,9 +45,8 @@
 
 	echo "\n--------------------------------Error Test Starts..!!------------------------------ \n ";
 		
-		//here's the syntax error.
 		echo "Haha";
-		demo_function_3();
+		demo_function_3(); //here's the syntax error.
 
 	echo "\n---------------------------------Error Test Ends..!!-------------------------------\n";
 
