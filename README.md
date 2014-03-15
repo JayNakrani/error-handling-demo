@@ -9,4 +9,4 @@ How to run demo code.
 Run the file `error_test.php` from command line.
 It'll show the ouput in command line only.
 
-Example output is shown in `log/log.txt`.
+Example output is shown in [log.txt](log/log.txt).
